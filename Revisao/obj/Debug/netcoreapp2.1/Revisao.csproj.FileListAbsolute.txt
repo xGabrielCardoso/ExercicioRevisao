@@ -1,0 +1,33 @@
+/Users/gabrielcardoso/Documents/Revisao/Revisao/obj/Debug/netcoreapp2.1/Revisao.csproj.CoreCompileInputs.cache
+/Users/gabrielcardoso/Documents/Revisao/Revisao/obj/Debug/netcoreapp2.1/Revisao.AssemblyInfoInputs.cache
+/Users/gabrielcardoso/Documents/Revisao/Revisao/obj/Debug/netcoreapp2.1/Revisao.AssemblyInfo.cs
+/Users/gabrielcardoso/Documents/Revisao/Revisao/bin/Debug/netcoreapp2.1/Revisao.deps.json
+/Users/gabrielcardoso/Documents/Revisao/Revisao/bin/Debug/netcoreapp2.1/Revisao.runtimeconfig.json
+/Users/gabrielcardoso/Documents/Revisao/Revisao/bin/Debug/netcoreapp2.1/Revisao.runtimeconfig.dev.json
+/Users/gabrielcardoso/Documents/Revisao/Revisao/bin/Debug/netcoreapp2.1/Revisao.dll
+/Users/gabrielcardoso/Documents/Revisao/Revisao/bin/Debug/netcoreapp2.1/Revisao.pdb
+/Users/gabrielcardoso/Documents/Revisao/Revisao/obj/Debug/netcoreapp2.1/Revisao.dll
+/Users/gabrielcardoso/Documents/Revisao/Revisao/obj/Debug/netcoreapp2.1/Revisao.pdb
+/Users/gabrielcardoso/Documents/Revisao/Revisao/obj/Debug/netcoreapp2.1/Revisao.csprojAssemblyReference.cache
+C:\Teste_Dev\Revisao\Revisao\Revisao\bin\Debug\netcoreapp2.1\Revisao.deps.json
+C:\Teste_Dev\Revisao\Revisao\Revisao\bin\Debug\netcoreapp2.1\Revisao.runtimeconfig.json
+C:\Teste_Dev\Revisao\Revisao\Revisao\bin\Debug\netcoreapp2.1\Revisao.runtimeconfig.dev.json
+C:\Teste_Dev\Revisao\Revisao\Revisao\bin\Debug\netcoreapp2.1\Revisao.dll
+C:\Teste_Dev\Revisao\Revisao\Revisao\bin\Debug\netcoreapp2.1\Revisao.pdb
+C:\Teste_Dev\Revisao\Revisao\Revisao\obj\Debug\netcoreapp2.1\Revisao.csprojAssemblyReference.cache
+C:\Teste_Dev\Revisao\Revisao\Revisao\obj\Debug\netcoreapp2.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Teste_Dev\Revisao\Revisao\Revisao\obj\Debug\netcoreapp2.1\Revisao.AssemblyInfoInputs.cache
+C:\Teste_Dev\Revisao\Revisao\Revisao\obj\Debug\netcoreapp2.1\Revisao.AssemblyInfo.cs
+C:\Teste_Dev\Revisao\Revisao\Revisao\obj\Debug\netcoreapp2.1\Revisao.dll
+C:\Teste_Dev\Revisao\Revisao\Revisao\obj\Debug\netcoreapp2.1\Revisao.pdb
+C:\Teste_Dev\Revisao - Copia\Revisao\Revisao\bin\Debug\netcoreapp2.1\Revisao.deps.json
+C:\Teste_Dev\Revisao - Copia\Revisao\Revisao\bin\Debug\netcoreapp2.1\Revisao.runtimeconfig.json
+C:\Teste_Dev\Revisao - Copia\Revisao\Revisao\bin\Debug\netcoreapp2.1\Revisao.runtimeconfig.dev.json
+C:\Teste_Dev\Revisao - Copia\Revisao\Revisao\bin\Debug\netcoreapp2.1\Revisao.dll
+C:\Teste_Dev\Revisao - Copia\Revisao\Revisao\bin\Debug\netcoreapp2.1\Revisao.pdb
+C:\Teste_Dev\Revisao - Copia\Revisao\Revisao\obj\Debug\netcoreapp2.1\Revisao.csprojAssemblyReference.cache
+C:\Teste_Dev\Revisao - Copia\Revisao\Revisao\obj\Debug\netcoreapp2.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Teste_Dev\Revisao - Copia\Revisao\Revisao\obj\Debug\netcoreapp2.1\Revisao.AssemblyInfoInputs.cache
+C:\Teste_Dev\Revisao - Copia\Revisao\Revisao\obj\Debug\netcoreapp2.1\Revisao.AssemblyInfo.cs
+C:\Teste_Dev\Revisao - Copia\Revisao\Revisao\obj\Debug\netcoreapp2.1\Revisao.dll
+C:\Teste_Dev\Revisao - Copia\Revisao\Revisao\obj\Debug\netcoreapp2.1\Revisao.pdb

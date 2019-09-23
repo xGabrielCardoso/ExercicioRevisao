@@ -1,0 +1,33 @@
+   // ### Exercícios
+
+            // Você é contratado para fazer um sistema de chamados de suporte.
+
+            // O sistema deve conter as seguintes funcionalidades:
+
+            // 1. Cadastro de novo chamado
+            // - O chamado deve conter data de abertura, descrição, status e código do chamado          
+            // - Status possíveis do chamado: Aberto, Em andamento, Fechado. 
+
+            // 2. Cadastro de novo analista de suporte
+            // - O analista deve conter nome, e-mail, data de nascimento e código do analista.
+
+            // 3. Associar chamado à analista
+            // - Para associar um chamado a um analista, é necessário o código do analista e o código do chamado.
+            // - Antes de solicitar o código do chamado ou do analista, deve ser exibido uma lista dos mesmos para que 
+            // o usuário possa identificar o chamado e o analista no momento do associação.
+            // - Somente chamados em aberto podem ser associados a analistas.
+            // - A lista de chamados exibidas deve mostrar apenas os chamados que estão em aberto.
+            // - Quando o chamado for associado a um analista, o status do chamado deve mudar para em andamento.
+
+            // 4. Fechar chamado
+            // - Somente chamados que estão em andamento podem ser fechados.
+            // - Listar todos os chamados em andamento para que o usuário selecione o chamado 
+            // que deseja fechar através de seu código.
+            // - O status do chamado deve mudar para Fechado
+
+            
+            // 5. Sair do sistema.
+
+            // Observações
+            // O número total de chamados é 10.
+            // O número total de analistas é 3.
